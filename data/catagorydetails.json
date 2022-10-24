@@ -90,18 +90,55 @@
     "id": 4,
     "title": "Web FrameWoks",
     "img": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_framework-01.png",
-    "about": " web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web. Web frameworks aim to automate the overhead associated with common activities performed in web development"
+    "about": " web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web. Web frameworks aim to automate the overhead associated with common activities performed in web development",
+    "list": [
+      {
+        "name": "React Js",
+        "img": "https://onlinecoursetutorials.com/wp-content/uploads/2022/02/what-is-reactjs-advantages-and-disadvantages.png"
+      },
+      {
+        "name": "Angular",
+        "img": "https://www.ryadel.com/wp-content/uploads/2017/10/angular-logo.jpg"
+      },
+      {
+        "name": "vue js",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220131222755/Vue.js-Tutorial.png"
+      },
+      {
+        "name": "Laravel",
+        "img": "https://bahiaxip.com/image/post/main/5af1trB31QPwKVZg7BEiBDMLoScjcMukBlBmdliG.jpeg"
+      },
+      {
+        "name": "Ruby",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png"
+      }
+    ]
   },
   {
     "id": 5,
     "title": "Web servers",
     "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Application-Server-1.jpg",
-    "about": "A web server is computer software and underlying hardware that accepts requests via HTTP or its secure variant HTTPS."
+    "about": "A web server is computer software and underlying hardware that accepts requests via HTTP or its secure variant HTTPS.",
+    "list": [
+      "Apache HTTP Server. Developed by Apache Software Foundation, it is a free and open source web server for Windows, Mac OS X, Unix, Linux, Solaris and other operating systems; it needs the Apache license.",
+      "Microsoft Internet Information Services (IIS). Developed by Microsoft for Microsoft platforms; it is not open sourced, but widely used.",
+      "Nginx. A popular open source web server for administrators because of its light resource utilization and scalability. It can handle many concurrent sessions due to its event-driven architecture. Nginx also can be used as a proxy server and load balancer.",
+      "Lighttpd. A free web server that comes with the FreeBSD operating system. It is seen as fast and secure, while consuming less CPU power.",
+      "Sun Java System Web Server. A free web server from Sun Microsystems that can run on Windows, Linux and Unix. It is well-equipped to handle medium to large websites."
+    ]
   },
   {
     "id": 6,
     "title": "Databases",
     "img": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
-    "about": "In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage."
+    "about": "In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage.",
+    "list": [
+      "Relational databases",
+      "Object-oriented databases",
+      "Distributed databases",
+      "Data warehouses",
+      "NoSQL databases",
+      "Graph databases"
+    ]
   }
 ]
