@@ -39,7 +39,20 @@
         "about": [
           "HTML stands for Hyper Text Markup Language",
           "HTML is the standard markup language for creating Web pages",
-          "HTML describes the structure of a Web page"
+          "HTML describes the structure of a Web page",
+          "HTML consists of a series of elements",
+          "HTML elements tell the browser how to display the content",
+          "HTML elements label pieces of content such as 'this is a heading', 'this is a paragraph', 'this is a link', etc."
+        ]
+      },
+      {
+        "title": "CSS",
+        "about": [
+          "CSS is the language we use to style a Web page.",
+          "CSS stands for Cascading Style Sheets",
+          "CSS describes how HTML elements are to be displayed on screen, paper, or in other media",
+          "CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "External stylesheets are stored in CSS files"
         ]
       }
     ]
@@ -48,7 +61,30 @@
     "id": 3,
     "title": "Programming Language",
     "img": "https://insights.dice.com/wp-content/uploads/2017/07/Programming-Language-Popularity.jpg",
-    "about": "A programming language is a system of notation for writing computer programs. Most programming languages are text-based formal languages, but they may also be graphical. They are a kind of computer language."
+    "about": "A programming language is a system of notation for writing computer programs. Most programming languages are text-based formal languages, but they may also be graphical. They are a kind of computer language.",
+    "details": "The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning), which are usually defined by a formal language. Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference. Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common. Programming language theory is a subfield of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages.",
+    "list": [
+      {
+        "name": "JavaScript",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+      },
+      {
+        "name": "Python",
+        "img": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png"
+      },
+      {
+        "name": "Golang",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-bde1fc0efd05ea8ba16ca42d58e8020e-lq"
+      },
+      {
+        "name": "Java ",
+        "img": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg"
+      },
+      {
+        "name": "PHP ",
+        "img": "https://kinsta.com/wp-content/uploads/2020/03/php-tutorials-1024x512.png"
+      }
+    ]
   },
   {
     "id": 4,
