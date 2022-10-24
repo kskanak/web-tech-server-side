@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "Browsers",
+    "img": "https://i.pcmag.com/imagery/roundups/03gXNuxiiy22Rd9583sPojG-1..v1614012534.jpg",
+    "about": "A web browser, or simply 'browser,' is an application used to access and view websites. Common web browsers include Microsoft Edge, Internet Explorer, Google Chrome, Mozilla Firefox, and Apple Safari",
+    "details": "A web browser (commonly just called a browser) is application software for accessing websites. When a user requests a web page from a particular website, the browser retrieves its files from a web server and then displays the page on the user's screen.A web browser is not the same thing as a search engine, though the two are often confused.[1][2] A search engine is a website that provides links to other websites. However, to connect to a website's server and display its web pages, a user must have a web browser installed.Browsers are used on a range of devices, including desktops, laptops, tablets, and smartphones. In 2020, an estimated 4.9 billion people used a browser. The most used browser is Google Chrome, with a 65% global market share on all devices, followed by Safari with 18%.In some technical contexts, browsers are referred to as user agents. Also, browsers are sometimes called Internet browsers, but this is technically incorrect; websites are only a portion of the Internet.",
+    "list": [
+      {
+        "name": "Mozila firefox",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOtVo3-lpC8adoweMm81M27jwWKrsNb9Kag&usqp=CAU"
+      },
+      {
+        "name": "Google Chrome",
+        "img": "https://www.bleepstatic.com/content/hl-images/2021/05/26/Google___Chrome.jpg?rand=1856557368"
+      },
+      {
+        "name": "Apple Safari",
+        "img": "https://www.gizchina.com/wp-content/uploads/images/2022/01/Safari-browser-a.png"
+      },
+      {
+        "name": "Opera ",
+        "img": "https://i.ytimg.com/vi/CAh9B2OdDl4/maxresdefault.jpg"
+      },
+      {
+        "name": "Microsoft edge ",
+        "img": "https://i.pcmag.com/imagery/articles/00IjEPX0EuQvk3YF45iFlDC-1..v1613590608.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "HTML and CSS",
+    "img": "https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6",
+    "about": "HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. HTML and CSS are the beginning of everything you need to know to make your first web page",
+    "dettails": [
+      {
+        "title": "HTML",
+        "about": [
+          "HTML stands for Hyper Text Markup Language",
+          "HTML is the standard markup language for creating Web pages",
+          "HTML describes the structure of a Web page"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Programming Language",
+    "img": "https://insights.dice.com/wp-content/uploads/2017/07/Programming-Language-Popularity.jpg",
+    "about": "A programming language is a system of notation for writing computer programs. Most programming languages are text-based formal languages, but they may also be graphical. They are a kind of computer language."
+  },
+  {
+    "id": 4,
+    "title": "Web FrameWoks",
+    "img": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_framework-01.png",
+    "about": " web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web. Web frameworks aim to automate the overhead associated with common activities performed in web development"
+  },
+  {
+    "id": 5,
+    "title": "Web servers",
+    "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Application-Server-1.jpg",
+    "about": "A web server is computer software and underlying hardware that accepts requests via HTTP or its secure variant HTTPS."
+  },
+  {
+    "id": 6,
+    "title": "Databases",
+    "img": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+    "about": "In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage."
+  }
+]
