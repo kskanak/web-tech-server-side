@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Browsers",
+    "img": "https://i.pcmag.com/imagery/roundups/03gXNuxiiy22Rd9583sPojG-1..v1614012534.jpg"
+  },
+  {
+    "id": 2,
+    "title": "HTML and CSS",
+    "img": "https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6"
+  },
+  {
+    "id": 3,
+    "title": "Programming Language",
+    "img": "https://insights.dice.com/wp-content/uploads/2017/07/Programming-Language-Popularity.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Web FrameWoks",
+    "img": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_framework-01.png"
+  },
+  {
+    "id": 5,
+    "title": "Web servers",
+    "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Application-Server-1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Databases",
+    "img": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png"
+  }
+]
