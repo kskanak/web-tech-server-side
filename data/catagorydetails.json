@@ -4,7 +4,16 @@
     "title": "Browsers",
     "img": "https://i.pcmag.com/imagery/roundups/03gXNuxiiy22Rd9583sPojG-1..v1614012534.jpg",
     "about": "A web browser, or simply 'browser,' is an application used to access and view websites. Common web browsers include Microsoft Edge, Internet Explorer, Google Chrome, Mozilla Firefox, and Apple Safari",
-    "details": "A web browser (commonly just called a browser) is application software for accessing websites. When a user requests a web page from a particular website, the browser retrieves its files from a web server and then displays the page on the user's screen.A web browser is not the same thing as a search engine, though the two are often confused.[1][2] A search engine is a website that provides links to other websites. However, to connect to a website's server and display its web pages, a user must have a web browser installed.Browsers are used on a range of devices, including desktops, laptops, tablets, and smartphones. In 2020, an estimated 4.9 billion people used a browser. The most used browser is Google Chrome, with a 65% global market share on all devices, followed by Safari with 18%.In some technical contexts, browsers are referred to as user agents. Also, browsers are sometimes called Internet browsers, but this is technically incorrect; websites are only a portion of the Internet.",
+    "points": [
+      "A web browser (commonly just called a browser) is application software for accessing websites",
+      "When a user requests a web page from a particular website, the browser retrieves its files from a web server and then displays the page on the user's screen.",
+      "A web browser is not the same thing as a search engine, though the two are often confused.",
+      "A search engine is a website that provides links to other websites.",
+      " However, to connect to a website's server and display its web pages, a user must have a web browser installed.Browsers are used on a range of devices, including desktops, laptops, tablets, and smartphones.",
+      " In 2020, an estimated 4.9 billion people used a browser. ",
+      "The most used browser is Google Chrome, with a 65% global market share on all devices, followed by Safari with 18%.In some technical contexts, browsers are referred to as user agents.",
+      " Also, browsers are sometimes called Internet browsers, but this is technically incorrect; websites are only a portion of the Internet."
+    ],
     "list": [
       {
         "name": "Mozila firefox",
@@ -33,28 +42,18 @@
     "title": "HTML and CSS",
     "img": "https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6",
     "about": "HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. HTML and CSS are the beginning of everything you need to know to make your first web page",
-    "list": [
-      {
-        "title": "HTML",
-        "about": [
-          "HTML stands for Hyper Text Markup Language",
-          "HTML is the standard markup language for creating Web pages",
-          "HTML describes the structure of a Web page",
-          "HTML consists of a series of elements",
-          "HTML elements tell the browser how to display the content",
-          "HTML elements label pieces of content such as 'this is a heading', 'this is a paragraph', 'this is a link', etc."
-        ]
-      },
-      {
-        "title": "CSS",
-        "about": [
-          "CSS is the language we use to style a Web page.",
-          "CSS stands for Cascading Style Sheets",
-          "CSS describes how HTML elements are to be displayed on screen, paper, or in other media",
-          "CSS saves a lot of work. It can control the layout of multiple web pages all at once",
-          "External stylesheets are stored in CSS files"
-        ]
-      }
+    "points": [
+      "HTML stands for Hyper Text Markup Language",
+      "HTML is the standard markup language for creating Web pages",
+      "HTML describes the structure of a Web page",
+      "HTML consists of a series of elements",
+      "HTML elements tell the browser how to display the content",
+      "HTML elements label pieces of content such as 'this is a heading', 'this is a paragraph', 'this is a link', etc.",
+      "CSS is the language we use to style a Web page.",
+      "CSS stands for Cascading Style Sheets",
+      "CSS describes how HTML elements are to be displayed on screen, paper, or in other media",
+      "CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+      "External stylesheets are stored in CSS files"
     ]
   },
   {
@@ -62,7 +61,12 @@
     "title": "Programming Language",
     "img": "https://insights.dice.com/wp-content/uploads/2017/07/Programming-Language-Popularity.jpg",
     "about": "A programming language is a system of notation for writing computer programs. Most programming languages are text-based formal languages, but they may also be graphical. They are a kind of computer language.",
-    "details": "The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning), which are usually defined by a formal language. Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference. Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common. Programming language theory is a subfield of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages.",
+    "points": [
+      "The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning), which are usually defined by a formal language",
+      "Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation.",
+      "that is treated as a reference. Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common.",
+      " Programming language theory is a subfield of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages."
+    ],
     "list": [
       {
         "name": "JavaScript",
@@ -91,6 +95,14 @@
     "title": "Web FrameWoks",
     "img": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_framework-01.png",
     "about": " web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web. Web frameworks aim to automate the overhead associated with common activities performed in web development",
+    "points": [
+      "It is a software framework that was developed in order to simplify the web development process and make it easier to build a website",
+      "It includes templating capabilities that allow you to present information within a browser, provides an environment for scripting how information flows and also contains many application programming interfaces (APIs) for gaining access to underlying data resources.",
+      "Most frameworks also provide tools in order for web developers to build a content management system (CMS) for managing digital information on websites and the Internet.",
+      "A web application or development framework can be considered as a pre-built structure that handles the more repetitive processes and features involved with developing a website.",
+      "This means that a web developer will spend most of their time interacting with the different parts of the web framework through the use of code.",
+      "Some of the features associated with web frameworks include web caching, authentication and authorisation procedures, database mapping and configuration and URL mapping."
+    ],
     "list": [
       {
         "name": "React Js",
@@ -119,7 +131,7 @@
     "title": "Web servers",
     "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Application-Server-1.jpg",
     "about": "A web server is computer software and underlying hardware that accepts requests via HTTP or its secure variant HTTPS.",
-    "list": [
+    "points": [
       "Apache HTTP Server. Developed by Apache Software Foundation, it is a free and open source web server for Windows, Mac OS X, Unix, Linux, Solaris and other operating systems; it needs the Apache license.",
       "Microsoft Internet Information Services (IIS). Developed by Microsoft for Microsoft platforms; it is not open sourced, but widely used.",
       "Nginx. A popular open source web server for administrators because of its light resource utilization and scalability. It can handle many concurrent sessions due to its event-driven architecture. Nginx also can be used as a proxy server and load balancer.",
@@ -132,7 +144,7 @@
     "title": "Databases",
     "img": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
     "about": "In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage.",
-    "list": [
+    "points": [
       "Relational databases",
       "Object-oriented databases",
       "Distributed databases",
