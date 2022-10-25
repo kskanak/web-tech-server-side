@@ -14,6 +14,9 @@ app.get("/", (req, res) => {
 app.get("/catagories", (req, res) => {
   res.send(catagories);
 });
+app.get("/catagorydetails", (req, res) => {
+  res.send(catagorydetails);
+});
 app.get("/catagorydetails/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const details = catagorydetails.find((catagory) => catagory.id === id);
